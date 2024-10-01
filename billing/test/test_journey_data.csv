@@ -1,0 +1,8 @@
+user_id,station,direction,time
+adam,station1,IN,2022-04-04T9:40:00
+beth,station3,OUT,2022-04-04T9:50:00
+adam,station2,OUT,2022-04-04T13:55:00
+charlie,station1,IN,2022-04-05T11:30:00
+charlie,station1,OUT,2022-04-05T12:02:11
+5,station4,IN,2022-04-05T13:44:07
+5,station1,OUT,2022-04-05T14:30:37
